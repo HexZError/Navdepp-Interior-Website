@@ -1,0 +1,20 @@
+﻿
+@media (max-width:390px){
+    #home-image-container{
+        height:50vh;
+    }
+    .Home-img h1{
+        padding:0px 30px;
+        text-align:center;
+    }
+    .Home-img p{
+        padding:0px 40px;
+        text-align:center;
+    }
+    .card-image-container {
+        height: 20vh;
+    }
+    .homeCard{
+        margin-top:20px;
+    }
+}
